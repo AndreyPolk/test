@@ -1,0 +1,37 @@
+body {
+	background: #aaa;
+}
+
+header {
+	background: #885;
+	
+}
+
+h1 {
+	text-align: center;
+	color: #225;
+	
+}
+
+section {
+	background: #a7a;
+	padding: 5px;
+}
+#table-section {
+	width: 70%;
+	border-radius: 5px;
+}
+.main-table {
+	border-collapse: collapse;
+	border: 2px black solid;
+	width: 100%;
+}
+.main-table th {
+	border: 1px black solid;
+}
+.main-table td {
+	border: 1px black solid;
+	height: 5em;
+	text-align: center;
+	background: white;
+}
